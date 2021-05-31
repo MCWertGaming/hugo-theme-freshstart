@@ -1,6 +1,8 @@
 # freshStart
 A clear and responsive theme for [Hugo](//gohugo.io/) witch provides a dynamic environment to manage bookmarks in a clean and fast start page.
 
+## NOTE
+This theme is reguarly updated by MCWertGaming. Feature requests should be send to the upstream repository first, if there is no response, you can open it here!
 
 ## Screenshot
 ![startPageColumns = false](https://raw.githubusercontent.com/rz3n/hugo-theme-freshstart/master/images/screenshot.png)
