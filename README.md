@@ -4,6 +4,9 @@ A clear and responsive theme for [Hugo](//gohugo.io/) witch provides a dynamic e
 ## NOTE
 This theme is reguarly updated by MCWertGaming. Feature requests should be send to the upstream repository first, if there is no response, you can open it here!
 
+This fork of the theme was updated by me a few times to keep the font awesome dependency up to date. Due to the size of font awesome and some rather personal changes on the theme, I have decided to make a new (but based on this) theme [here](https://github.com/MCWertGaming/hugo-theme-freshHome). It's called freshHome and features a small under the hood rework and some small design changes. This fork is archived and will therefore not maintained anymore.
+
+
 ## Screenshot
 ![startPageColumns = false](https://raw.githubusercontent.com/rz3n/hugo-theme-freshstart/master/images/screenshot.png)
 
